@@ -23,7 +23,9 @@ Successfully installed Multipass.
 ![multipass](147.jpg) 
 My computer does not support virtualization, further action is required.
 
-
+## part 3
+![lxd](WechatIMG207.jpg)
+Install lxd and run lxd initialization
 
 
 
