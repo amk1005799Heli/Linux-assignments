@@ -7,7 +7,7 @@
 
 Here is the actual running result:
 
-![运行截图](images/1.jpg)
+![运行截图](images/2.jpg)
 
 
 
